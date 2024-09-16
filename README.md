@@ -17,10 +17,12 @@ JavaScript: For managing budget, and expenses, and dynamically updating the summ
 
 #Installation Instructions:
 
-Clone the repository: git clone <repository-url>
-Open the index.html file in a web browser to view the app.
+Clone the repository: 
+1. git clone <repository-url>
+2. Open the index.html file in a web browser to view the app.
 
 #Usage:
+
 Open the application in your browser.
 Enter your total budget and click "Set Budget" to initialize it.
 Record expenses by entering a title and amount, then click "Check Amount."
